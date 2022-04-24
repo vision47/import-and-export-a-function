@@ -1,0 +1,1 @@
+let validFunction = require("./exportFunction");
